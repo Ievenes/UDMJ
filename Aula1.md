@@ -1,5 +1,5 @@
 # UDMJ
- Usabilidade, desenvolvimento web, mobile e jogos (UC Hub)
+ Usabilidade, desenvolvimento web, mobile e jogos (U.C Hub)
 
 # Usabilidade
 
